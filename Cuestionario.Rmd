@@ -1,0 +1,6 @@
+---
+title: "Cuestionario"
+author: "Stephanie Rodriguez Cortes"
+date: "2025-09-25"
+output: html_document
+---
